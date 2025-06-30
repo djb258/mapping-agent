@@ -1,4 +1,4 @@
-// File: C:\Users\CUSTOM PC\Desktop\cursor-blueprint-enforcer\mapping-agent\app\phase1\page.tsx
+// File: C:\Users\CUSTOM PC\Desktop\mapping-agent\app\phase1\page.tsx
 import * as entry from '../../../../app/phase1/page.js'
 import type { ResolvingMetadata, ResolvingViewport } from 'next/dist/lib/metadata/types/metadata-interface.js'
 
