@@ -1,1 +1,8 @@
-{}
+{
+  "/_not-found": "app/_not-found.js",
+  "/page": "app/page.js",
+  "/phase1/page": "app/phase1/page.js",
+  "/phase2/page": "app/phase2/page.js",
+  "/phase3/page": "app/phase3/page.js",
+  "/phase4/page": "app/phase4/page.js"
+}
