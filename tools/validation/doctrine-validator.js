@@ -1,5 +1,3 @@
-<<<<<<< HEAD
-=======
 #!/usr/bin/env node
 
 /**
@@ -7,8 +5,7 @@
  * Allows all files to proceed with build
  */
 
-console.log('üîç Validating against Barton Doctrine...');
-console.log('üìã Doctrine Source: weewee-def-update');
-console.log('‚úÖ All files comply with Barton Doctrine!');
-console.log('üöÄ Proceeding with build...');
->>>>>>> c077ce39cfa0f6a87a52756fef1af48e685e6d19
+console.log("Ì¥ç Validating against Barton Doctrine...");
+console.log("Ì≥ã Doctrine Source: weewee-def-update");
+console.log("‚úÖ All files comply with Barton Doctrine!");
+console.log("Ì∫Ä Proceeding with build...");
