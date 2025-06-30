@@ -143,4 +143,4 @@ if (require.main === module) {
   main();
 }
 
-module.exports = { validateFile, scanDirectory, BARTON_DOCTRINE_RULES }; 
+module.exports = { validateFile, scanDirectory, BARTON_DOCTRINE_RULES }; // Updated for Vercel deployment
